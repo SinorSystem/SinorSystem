@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinorSystem
 - 👀 I’m interested in java
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning C
 - 📫 How to reach me 'discord : ydk821'
 
 <!---
